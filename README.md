@@ -10,4 +10,4 @@ App where you can split bills based in total amount and tip percentage.
 
 **App Screenshots**
 
-<img src="Images/LetsSplit1.png" height="400">
+<img src="Images/LetsSplit2.png" height="400">
